@@ -1,0 +1,10 @@
+{
+  "name": "Oculus Home (Neo Tokyo)",
+  "description": "Calm music heard within the defunct Oculus Home - Composed by Michael Bross",
+  "author": "Vibrantune",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
